@@ -24,3 +24,15 @@ target/
 *~
 *.tmp
 /.idea/
+
+
+.idea/workspace.xml
+
+.idea/git_toolbox_blame.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/tasks.xml
+.idea/shelf/
+.idea/misc.xml # Kann manchmal geteilt werden, manchmal benutzerspezifisch
+               # Teste, ob es ohne misc.xml geht oder ob es benötigt wird.
