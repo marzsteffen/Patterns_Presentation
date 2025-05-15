@@ -3,7 +3,6 @@
 
 ## Beteiligte Klassen und Schnittstellen
 
-Basierend auf dem Klassendiagramm des Decorator Patterns lassen sich folgende Elemente in unserem Kaffee-Beispiel identifizieren:
 
 * **`Coffee` (Component)**:
     * Ein Interface, das die Methoden definiert, die sowohl von den Basis-Kaffeesorten als auch von den Dekoratoren implementiert werden müssen.

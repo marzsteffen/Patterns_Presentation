@@ -1,5 +1,3 @@
-# Szenario
-
 # Aufgabenstellung: Decorator Pattern im eHealth-Bereich
 
 

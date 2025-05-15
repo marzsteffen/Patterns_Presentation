@@ -1,10 +1,7 @@
 # Decorator Pattern: Pizza-Beispiel
 
-Das Decorator Pattern ist ein Strukturmuster, das es erlaubt, Objekten dynamisch zusätzliches Verhalten hinzuzufügen, ohne deren Klassen zu verändern. Dies geschieht durch das "Einpacken" des ursprünglichen Objekts in ein oder mehrere Dekorierer-Objekte. Dieses Beispiel zeigt dies anhand einer Pizza, die mit verschiedenen Belägen versehen wird.
-
 ## Beteiligte Klassen und Schnittstellen
 
-Angelehnt an das allgemeine Klassendiagramm des Decorator Patterns lassen sich folgende Elemente in unserem Pizza-Beispiel identifizieren:
 
 * **`Pizza` (Component)**:
     * Ein Interface, das die grundlegenden Operationen für eine Pizza definiert.
