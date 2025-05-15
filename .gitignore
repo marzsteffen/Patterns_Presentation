@@ -1,7 +1,7 @@
 ### IntelliJ IDEA ###
 out/
-!**/src/main/**/out/
-!**/src/test/**/out/
+!Structural_Decorator/main/**/out/
+!Structural_Decorator/test/**/out/
 
 
 # IntelliJ IDEA
@@ -23,3 +23,16 @@ target/
 # Temporäre Dateien
 *~
 *.tmp
+/.idea/
+
+
+.idea/workspace.xml
+
+.idea/git_toolbox_blame.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/tasks.xml
+.idea/shelf/
+.idea/misc.xml # Kann manchmal geteilt werden, manchmal benutzerspezifisch
+               # Teste, ob es ohne misc.xml geht oder ob es benötigt wird.
